@@ -3,5 +3,8 @@
 
 // but you're not, so you'll write it from scratch:
 var parseJSON = function(json) {
+
+  //'{"a": {"b": "c", "d": "e"}, "f":"g"}'
+
   // your code goes here
 };
